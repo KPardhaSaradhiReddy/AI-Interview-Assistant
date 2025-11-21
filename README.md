@@ -442,17 +442,13 @@ Comprehensive test suite covering:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-[Add your license information here]
-
 ## 👥 Contact
 
-For questions about this project, please contact [your-email@example.com]
+For questions about this project, please contact [reddypardhasaradhi8@gmail.com]
 
 ---
 
-**Built with ❤️ using React, TypeScript, and Google Gemini AI**
+**Built with using React, TypeScript, and Google Gemini AI**
 "# AI-Interview-Assistant" 
 "# AI-Interview-Assistant" 
 "# AI-Interview-Assistant" 
